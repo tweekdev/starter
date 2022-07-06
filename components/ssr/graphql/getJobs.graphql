@@ -1,0 +1,7 @@
+query getJobs {
+    jobs {
+        id
+        title
+        postedAt
+    }
+}
